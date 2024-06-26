@@ -20,7 +20,7 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="px"
      showgrid="true"
      width="1024px"
@@ -28,12 +28,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1"
-     inkscape:cx="512.5"
-     inkscape:cy="512.5"
+     inkscape:cx="512"
+     inkscape:cy="512"
      inkscape:window-width="2560"
-     inkscape:window-height="1377"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="96"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -115,6 +115,35 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect901"
+       width="80"
+       height="416"
+       x="728"
+       y="80" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.984251"
+       id="rect881"
+       width="80"
+       height="496"
+       x="496"
+       y="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect861"
+       width="80"
+       height="416"
+       x="264"
+       y="80" />
+    <path
+       id="path1021"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       d="M 32,512 A 128,128 0 0 0 69.490234,602.50977 128,128 0 0 0 160,640 V 560 A 48,48 0 0 1 126.05859,545.94141 48,48 0 0 1 112,512 Z" />
+    <path
+       id="path1121"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       d="m 432,560 v 96 a 48,48 0 0 1 48,48 h 96 A 144,144 0 0 0 432,560 Z" />
+    <rect
        style="fill:#000000"
        id="rect42"
        width="80"
@@ -171,6 +200,13 @@
        x="928"
        y="208" />
     <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.02469"
+       id="rect856"
+       width="80"
+       height="336"
+       x="32"
+       y="176" />
+    <rect
        style="fill:#ffff00"
        id="rect3389"
        width="80"
@@ -187,11 +223,11 @@
     <path
        id="path3710"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
-       d="M 0 528 A 144 144 0 0 0 42.175781 629.82422 A 144 144 0 0 0 144 672 L 144 592 A 64 64 0 0 1 98.746094 573.25391 A 64 64 0 0 1 80 528 L 0 528 z " />
+       d="M 0,528 A 144,144 0 0 0 42.175781,629.82422 144,144 0 0 0 144,672 V 592 A 64,64 0 0 1 98.746094,573.25391 64,64 0 0 1 80,528 Z" />
     <path
        id="path4351"
        style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd"
-       d="M 16 528 A 128 128 0 0 0 53.490234 618.50977 A 128 128 0 0 0 144 656 L 144 576 A 48 48 0 0 1 110.05859 561.94141 A 48 48 0 0 1 96 528 L 16 528 z " />
+       d="M 16,528 A 128,128 0 0 0 53.490234,618.50977 128,128 0 0 0 144,656 V 576 A 48,48 0 0 1 110.05859,561.94141 48,48 0 0 1 96,528 Z" />
     <rect
        style="fill:#000000"
        id="rect6104"
@@ -227,6 +263,27 @@
     <path
        id="path7787"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
-       d="M 416 656 L 416 672 A 48 48 0 0 1 464 720 L 480 720 A 64 64 0 0 0 416 656 z " />
+       d="m 416,656 v 16 a 48,48 0 0 1 48,48 h 16 a 64,64 0 0 0 -64,-64 z" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+       id="rect896"
+       width="272"
+       height="16"
+       x="160"
+       y="560" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.02598"
+       id="rect958"
+       width="16"
+       height="320"
+       x="560"
+       y="704" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2"
+       id="rect921"
+       width="64"
+       height="16"
+       x="960"
+       y="176" />
   </g>
 </svg>
